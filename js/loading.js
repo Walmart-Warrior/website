@@ -1,4 +1,5 @@
 loadText = document.querySelector('.loading-text')
 
-loadText.innerText = "5%"
-console.log("hello")
+load = 0
+
+loadText.innerText = "7%"
