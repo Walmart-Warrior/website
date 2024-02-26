@@ -24,3 +24,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.loading-text {
+    font-size: 50px;
+    
+}
