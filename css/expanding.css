@@ -1,4 +1,6 @@
-
+* {
+    box-sizing
+}
 
 body {
     height: 100vh;
