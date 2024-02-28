@@ -33,6 +33,7 @@ body {
 
 .panel.active {
     flex: 5;
+    transition: oppacity 0.5s ease-in 0.5s;
 }
 
 .panel h3 {
