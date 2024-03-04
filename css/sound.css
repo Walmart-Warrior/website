@@ -7,18 +7,19 @@ body {
     height: 100vh;
     align-items: center;
     justify-content: center;
-    background-color: violet;
+    background-color: rgb(161, 100, 223);
     margin: 0;
 }
 
 .btn {
-    height: 10vh;
-    width: 15vh;
+    height: 12vh;
+    width: 10vw;
     position: relative;
     cursor: pointer;
-    background-color: purple;
+    background-color: violet;
     border: 0;
+    font-size: 1.2rem;
     padding: 15px;
     margin: 15px;
-    color: white;
+    color: black;
 }
