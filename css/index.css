@@ -10,6 +10,6 @@ body {
     margin: 0;
 }
 
-.btn {
-    
+.btn:hover {
+    opacity: .9;
 }
