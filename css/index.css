@@ -13,3 +13,15 @@ body {
 .btn:hover {
     opacity: .9;
 }
+
+.btn {
+    position: relative;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    border: 0;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    color: black;
+}
