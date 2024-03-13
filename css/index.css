@@ -127,7 +127,8 @@ body {
     margin: 1rem;
     border-radius: 5px;
     color: white;
-    
+    align-items: center;
+    justify-content: center;
 }
 
 .btn:hover {
