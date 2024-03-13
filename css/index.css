@@ -1,4 +1,4 @@
-/* * {
+* {
     box-sizing: border-box;
 }
 
@@ -10,11 +10,7 @@ body {
     margin: 0;
 }
 
-.btn:hover {
-    opacity: .9;
-}
-
-.btn {
+button {
     position: relative;
     cursor: pointer;
     background-color: rebeccapurple;
@@ -23,5 +19,12 @@ body {
     padding: 1.5rem 3rem;
     margin: 1rem;
     border-radius: 5px;
-    color: black;
-} */
+    color: white;
+    margin: 0;
+    height: 15vh;
+    width: 15vw;
+}
+
+button:hover {
+    opacity: 0.9;
+}
