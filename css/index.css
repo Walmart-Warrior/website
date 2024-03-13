@@ -18,7 +18,7 @@ body {
 }
 
 .hero {
-    background-image: url(images/computer-man.jpeg);
+    background-image: url(images/code.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -112,6 +112,7 @@ body {
 .nav a:hover {
     color: rgb(192, 57, 43);
     font-weight: bold;
+    text-decoration: underline;
 }
 
 .btn {
