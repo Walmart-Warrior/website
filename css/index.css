@@ -113,3 +113,21 @@ body {
     color: rgb(192, 57, 43);
     font-weight: bold;
 }
+
+.btn {
+    font-family: "Abel", sans-serif;
+    position: relative;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    border: 0;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    text-decoration: underline;
+}
