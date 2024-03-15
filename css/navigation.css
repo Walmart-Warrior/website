@@ -113,3 +113,12 @@ body {
     color: rgb(192, 57, 43);
     font-weight: bold;
 }
+
+.web select {
+    height: 8vh;
+    width: 10vw;
+    background-color: #666;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
